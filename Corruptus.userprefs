@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GamePlayers.cs">
+    <Files>
+      <File FileName="Assets\GamePlayers.cs" Line="53" Column="18" />
+      <File FileName="Assets\MasterGame.cs" Line="35" Column="25" />
+      <File FileName="Assets\DiceValue.cs" Line="30" Column="30" />
+      <File FileName="Assets\PathList.cs" Line="6" Column="40" />
+      <File FileName="Assets\BlockValue.cs" Line="16" Column="2" />
+      <File FileName="Assets\Department.cs" Line="18" Column="116" />
+      <File FileName="Assets\Project.cs" Line="11" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
